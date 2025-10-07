@@ -254,25 +254,25 @@ After opening the project via either method and successful Gradle sync, you can 
 
 | Image/Screenshot | Description |
 | :--------------: | :---------- |
-| ![CreateAccount](Assets/CreateAccount.png) | Create Account screen |
-| ![SignIn](Assets/SignIn.png) | Sign In screen |
-| ![DashBoard](Assets/DashBoard.png) | Main Dashboard view |
-| ![WaterIntake](Assets/WaterIntake.png) | Water Intake tracker |
-| ![HistoryPage](Assets/HistoryPage.png) | User history page |
-| ![TrackerSteps](Assets/TrackerSteps.png) | Steps tracking screen |
-| ![TrackerDistance](Assets/TrackerDistance.png) | Distance tracking screen |
-| ![TrackerCalories](Assets/TrackerCalories.png) | Calories tracking screen |
-| ![Workout](Assets/Workout.png) | Workout session screen |
-| ![AnalyticsOne](Assets/AnalyticsOne.png) | Analytics view 1 |
-| ![AnalyticsTwo](Assets/AnalyticsTwo.png) | Analytics view 2 |
-| ![AnalyticsThree](Assets/AnalyticsThree.png) | Analytics view 3 |
-| ![AnalyticsFour](Assets/AnalyticsFour.png) | Analytics view 4 |
-| ![ProfileOne](Assets/ProfileOne.png) | Profile page 1 |
-| ![ProfileTwo](Assets/ProfileTwo.png) | Profile page 2 |
-| ![Gamification](Assets/Gamification.png) | Gamification features screen |
-| ![SystemSettings](Assets/SystemSettings.png) | System settings screen |
-| ![Preferences](Assets/Preferences.png) | User preferences page |
-| ![AboutApp](Assets/AboutApp.png) | About App page |
+| ![CreateAccount](Assets/CreateAccount.jpg) | Create Account screen |
+| ![SignIn](Assets/SignIn.jpg) | Sign In screen |
+| ![DashBoard](Assets/DashBoard.jpg) | Main Dashboard view |
+| ![WaterIntake](Assets/WaterIntake.jpg) | Water Intake tracker |
+| ![HistoryPage](Assets/HistoryPage.jpg) | User history page |
+| ![TrackerSteps](Assets/TrackerSteps.jpg) | Steps tracking screen |
+| ![TrackerDistance](Assets/TrackerDistance.jpg) | Distance tracking screen |
+| ![TrackerCalories](Assets/TrackerCalories.jpg) | Calories tracking screen |
+| ![Workout](Assets/Workout.jpg) | Workout session screen |
+| ![AnalyticsOne](Assets/AnalyticsOne.jpg) | Analytics view 1 |
+| ![AnalyticsTwo](Assets/AnalyticsTwo.jpg) | Analytics view 2 |
+| ![AnalyticsThree](Assets/AnalyticsThree.jpg) | Analytics view 3 |
+| ![AnalyticsFour](Assets/AnalyticsFour.jpg) | Analytics view 4 |
+| ![ProfileOne](Assets/ProfileOne.jpg) | Profile page 1 |
+| ![ProfileTwo](Assets/ProfileTwo.jpg) | Profile page 2 |
+| ![Gamification](Assets/Gamification.jpg) | Gamification features screen |
+| ![SystemSettings](Assets/SystemSettings.jpg) | System settings screen |
+| ![Preferences](Assets/Preferences.jpg) | User preferences page |
+| ![AboutApp](Assets/AboutApp.jpg) | About App page |
 
 
 ---
