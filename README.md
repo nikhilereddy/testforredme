@@ -36,7 +36,7 @@
 **IIE Varsity College Westville** <br>
 
 **GitHub Repository**: [GitHub Repository](https://github.com/VCWVL/prog7314-part-2-CalebPerumal28.git) <br>
-**FitNexx APK Repository**: <br>
+**FitNexx APK Repository**: [APK Repo](https://github.com/BradenCalebPerumal/FitnexxAPK.git) <br>
 **FitNexx Android API Repository**: [API Repo](https://github.com/BradenCalebPerumal/fitnexx-api.git) <br>
 **Video Demonstration (OneDrive)**: [📹 **Watch Video**](https://dlssa-my.sharepoint.com/:v:/g/personal/caleb_dlssa_onmicrosoft_com/EbG_Gyl4XthJkjq0h_zmPeMBH57clDYTBgE6eGf2--L2dw?e=R7sqpp) <br>
 
@@ -418,7 +418,7 @@ If you encounter issues, ensure your Android Studio project is synced properly w
 ---
 
 ## 📱 16. App APK
-- 📂 [APK Repo](https://github.com/CalebPerumal28/ThryftAppBuildApk.git)
+- 📂 [APK Repo](https://github.com/BradenCalebPerumal/FitnexxAPK.git)
 
 ---
 
