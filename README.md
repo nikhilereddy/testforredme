@@ -254,26 +254,25 @@ After opening the project via either method and successful Gradle sync, you can 
 
 | Image/Screenshot | Description |
 | :--------------: | :---------- |
-| ![CreateAccount](Assets/CreateAccount.jpg) | Create Account screen |
-| ![SignIn](Assets/SignIn.jpg) | Sign In screen |
-| ![DashBoard](Assets/DashBoard.jpg) | Main Dashboard view |
-| ![WaterIntake](Assets/WaterIntake.jpg) | Water Intake tracker |
-| ![HistoryPage](Assets/HistoryPage.jpg) | User history page |
-| ![TrackerSteps](Assets/TrackerSteps.jpg) | Steps tracking screen |
-| ![TrackerDistance](Assets/TrackerDistance.jpg) | Distance tracking screen |
-| ![TrackerCalories](Assets/TrackerCalories.jpg) | Calories tracking screen |
-| ![Workout](Assets/Workout.jpg) | Workout session screen |
-| ![AnalyticsOne](Assets/AnalyticsOne.jpg) | Analytics view 1 |
-| ![AnalyticsTwo](Assets/AnalyticsTwo.jpg) | Analytics view 2 |
-| ![AnalyticsThree](Assets/AnalyticsThree.jpg) | Analytics view 3 |
-| ![AnalyticsFour](Assets/AnalyticsFour.jpg) | Analytics view 4 |
-| ![ProfileOne](Assets/ProfileOne.jpg) | Profile page 1 |
-| ![ProfileTwo](Assets/ProfileTwo.jpg) | Profile page 2 |
-| ![Gamification](Assets/Gamification.jpg) | Gamification features screen |
-| ![SystemSettings](Assets/SystemSettings.jpg) | System settings screen |
-| ![Preferences](Assets/Preferences.jpg) | User preferences page |
-| ![AboutApp](Assets/AboutApp.jpg) | About App page |
-
+| <img src="Assets/CreateAccount.jpg" width="200"/> | Create Account screen |
+| <img src="Assets/SignIn.jpg" width="200"/> | Sign In screen |
+| <img src="Assets/DashBoard.jpg" width="200"/> | Main Dashboard view |
+| <img src="Assets/WaterIntake.jpg" width="200"/> | Water Intake tracker |
+| <img src="Assets/HistoryPage.jpg" width="200"/> | User history page |
+| <img src="Assets/TrackerSteps.jpg" width="200"/> | Steps tracking screen |
+| <img src="Assets/TrackerDistance.jpg" width="200"/> | Distance tracking screen |
+| <img src="Assets/TrackerCalories.jpg" width="200"/> | Calories tracking screen |
+| <img src="Assets/Workout.jpg" width="200"/> | Workout session screen |
+| <img src="Assets/AnalyticsOne.jpg" width="200"/> | Analytics view 1 |
+| <img src="Assets/AnalyticsTwo.jpg" width="200"/> | Analytics view 2 |
+| <img src="Assets/AnalyticsThree.jpg" width="200"/> | Analytics view 3 |
+| <img src="Assets/AnalyticsFour.jpg" width="200"/> | Analytics view 4 |
+| <img src="Assets/ProfileOne.jpg" width="200"/> | Profile page 1 |
+| <img src="Assets/ProfileTwo.jpg" width="200"/> | Profile page 2 |
+| <img src="Assets/Gamification.jpg" width="200"/> | Gamification features screen |
+| <img src="Assets/SystemSettings.jpg" width="200"/> | System settings screen |
+| <img src="Assets/Preferences.jpg" width="200"/> | User preferences page |
+| <img src="Assets/AboutApp.jpg" width="200"/> | About App page |
 
 ---
 
