@@ -254,17 +254,26 @@ After opening the project via either method and successful Gradle sync, you can 
 
 | Image/Screenshot | Description |
 | :--------------: | :---------- |
-|    ![](.jpg)     | [Heading]   |
-|    ![](.jpg)     | [Heading]   |
-|    ![](.jpg)     | [Heading]   |
-|    ![](.jpg)     | [Heading]   |
-|    ![](.jpg)     | [Heading]   |
-|    ![](.jpg)     | [Heading]   |
-|    ![](.jpg)     | [Heading]   |
-|    ![](.jpg)     | [Heading]   |
-|    ![](.jpg)     | [Heading]   |
-|    ![](.jpg)     | [Heading]   |
-|    ![](.jpg)     | [Heading]   |
+| ![CreateAccount](Assets/CreateAccount.png) | Create Account screen |
+| ![SignIn](Assets/SignIn.png) | Sign In screen |
+| ![DashBoard](Assets/DashBoard.png) | Main Dashboard view |
+| ![WaterIntake](Assets/WaterIntake.png) | Water Intake tracker |
+| ![HistoryPage](Assets/HistoryPage.png) | User history page |
+| ![TrackerSteps](Assets/TrackerSteps.png) | Steps tracking screen |
+| ![TrackerDistance](Assets/TrackerDistance.png) | Distance tracking screen |
+| ![TrackerCalories](Assets/TrackerCalories.png) | Calories tracking screen |
+| ![Workout](Assets/Workout.png) | Workout session screen |
+| ![AnalyticsOne](Assets/AnalyticsOne.png) | Analytics view 1 |
+| ![AnalyticsTwo](Assets/AnalyticsTwo.png) | Analytics view 2 |
+| ![AnalyticsThree](Assets/AnalyticsThree.png) | Analytics view 3 |
+| ![AnalyticsFour](Assets/AnalyticsFour.png) | Analytics view 4 |
+| ![ProfileOne](Assets/ProfileOne.png) | Profile page 1 |
+| ![ProfileTwo](Assets/ProfileTwo.png) | Profile page 2 |
+| ![Gamification](Assets/Gamification.png) | Gamification features screen |
+| ![SystemSettings](Assets/SystemSettings.png) | System settings screen |
+| ![Preferences](Assets/Preferences.png) | User preferences page |
+| ![AboutApp](Assets/AboutApp.png) | About App page |
+
 
 ---
 
