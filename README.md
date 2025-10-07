@@ -303,7 +303,7 @@ After opening the project via either method and successful Gradle sync, you can 
 | <img src="Assets/Gamification.jpg" width="200"/> | Gamification features screen |
 | <img src="Assets/SystemSettings.jpg" width="200"/> | System settings screen |
 | <img src="Assets/Preferences.jpg" width="200"/> | User preferences page |
-| <img src="Assets/AboutApp.jpg" width="200"/> | About App page |
+| <img src="Assets/AppInfo.jpg" width="200"/> | About App page |
 
 ---
 
@@ -420,6 +420,7 @@ If you encounter issues, ensure your Android Studio project is synced properly w
 ## 📱 16. App APK
 - 📂 [APK Repo](https://github.com/CalebPerumal28/ThryftAppBuildApk.git)
 
+---
 
 ## 📚 17. References
 
