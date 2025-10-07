@@ -35,10 +35,10 @@
 **Assessment Type**: PoE: Part 2 - App Prototype Development <br>
 **IIE Varsity College Westville** <br>
 
-**GitHub Repository**:[GitHub Repository](https://github.com/VCWVL/prog7314-part-2-CalebPerumal28.git) <br>
+**GitHub Repository**: [GitHub Repository](https://github.com/VCWVL/prog7314-part-2-CalebPerumal28.git) <br>
 **FitNexx APK Repository**: <br>
-**FitNexx Android API Repository**: <br>
-**Video Demonstration (OneDrive)**: <br>
+**FitNexx Android API Repository**: [API Repo](https://github.com/BradenCalebPerumal/fitnexx-api.git) <br>
+**Video Demonstration (OneDrive)**: [📹 **Watch Video**](https://dlssa-my.sharepoint.com/:v:/g/personal/caleb_dlssa_onmicrosoft_com/EbG_Gyl4XthJkjq0h_zmPeMBH57clDYTBgE6eGf2--L2dw?e=R7sqpp) <br>
 
 ---
 
