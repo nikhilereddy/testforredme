@@ -149,21 +149,52 @@ jobs:
 - Android device or emulator with Android 7.0 (API 24) or higher
 - Internet connection (only required for future Firebase functionality)
 
-### Installation Steps:
+### Installation Steps
 
 #### Method 1: Downloading the ZIP File from GitHub
 
-1. **Download the ZIP**: Click the green "Code" button near the top-right of the page. In the dropdown menu, select "Download ZIP". This will download a compressed file (e.g., repo-name-main.zip) to your computer's Downloads folder. The file size depends on the repo but is usually quick to download.
-2. **Extract the ZIP File**: Locate the downloaded ZIP file in your file explorer (e.g., File Explorer on Windows or Finder on macOS). Right-click the file and choose "Extract All" (Windows) or double-click to unzip (macOS). Extract it to a convenient location, such as your Documents or Desktop folder. This creates a new folder with the repo's contents (e.g., repo-name-main). Avoid extracting to a path with spaces or special characters, as this can cause build issues.
-3. **Open the Project in Android Studio**: Launch Android Studio. If it's your first time or no project is open, you'll see the Welcome screen. Click "Open" (or "Open an existing project" in older versions). Navigate to the extracted folder and select it (make sure you select the root folder containing files like build.gradle and settings.gradle). Click "OK" to import the project. Android Studio will load the project structure in the Project view (usually on the left sidebar).
-4. **Wait for Gradle Sync**: Once the project opens, Android Studio will automatically start syncing with Gradle files. This process downloads dependencies (like libraries specified in build.gradle) and configures the build environment. You'll see a progress bar at the bottom of the window saying "Gradle sync in progress" or similar. This can take 1-10 minutes depending on your internet speed and the project's complexity—be patient and don't close Android Studio. If it fails (e.g., due to network issues), click the "Sync Project with Gradle Files" icon (elephant symbol) in the toolbar to retry. Check the "Event Log" or "Build" tab at the bottom for error details, and resolve any issues like updating the Gradle version if prompted.
-5. **Resolve Any Initial Issues**: After sync completes successfully (you'll see "Gradle sync finished" in the status bar), review the project. If there are errors (red underlines in code), fix them by following prompts, such as accepting SDK license agreements (via Tools > SDK Manager) or updating outdated dependencies in build.gradle files.
+1. **Download the ZIP**  
+   Go to the GitHub repo: [prog7314-part-2-CalebPerumal28](https://github.com/VCWVL/prog7314-part-2-CalebPerumal28)  
+   Click the green **Code** button → select **Download ZIP**. This will download a compressed file (e.g., `prog7314-part-2-CalebPerumal28-main.zip`) to your computer.
+
+2. **Extract the ZIP File**  
+   Locate the downloaded ZIP file on your computer.  
+   - **Windows**: Right-click → Extract All  
+   - **macOS**: Double-click to unzip  
+   Extract it to a convenient location, e.g., `Documents` or `Desktop`.  
+   This will create a folder like `prog7314-part-2-CalebPerumal28-main`.
+
+3. **Open the Project in Android Studio**  
+   - Launch Android Studio  
+   - Click **File → Open** (or **Open an existing project**)  
+   - Navigate to the extracted folder and select it (make sure it contains `build.gradle` and `settings.gradle`)  
+   - Click **OK** to import the project
+
+4. **Wait for Gradle Sync**  
+   Android Studio will automatically sync the Gradle files. This downloads all dependencies.  
+   > **Tip:** If the sync fails, click **Sync Project with Gradle Files** (elephant icon in the toolbar). Check the **Event Log** or **Build** tab for errors.
+
+5. **Resolve Any Initial Issues**  
+   After sync completes, fix any errors:  
+   - Accept SDK licenses (`Tools → SDK Manager`)  
+   - Update outdated dependencies in `build.gradle` if prompted
 
 #### Method 2: Using GitHub Desktop for Cloning
 
-1. **Clone the Repository**: In your browser, go to the GitHub repo page and click the green "Code" button. Copy the HTTPS URL (e.g., https://github.com/username/repo-name.git). Open GitHub Desktop, click "File" > "Clone repository" (or the "+" button in the top-left). In the dialog, paste the URL into the "URL" tab, choose a local path to save it (e.g., Documents/GitHub/repo-name), and click "Clone". This downloads the entire repo to your computer, including version history. The process might take a few minutes.
-2. **Open the Cloned Project in Android Studio**: Once cloned, note the local folder path in GitHub Desktop (visible in the repository list). Launch Android Studio, click "Open" from the Welcome screen, and navigate to the cloned folder (select the root with build.gradle). Proceed as in Step 4 of Method 1.
-3. **Wait for Gradle Sync**: Follow the same Gradle sync process as in Method 1, Step 5. If you make changes later, you can use GitHub Desktop to commit and push them.
+1. **Clone the Repository**  
+   Copy the HTTPS URL:https://github.com/VCWVL/prog7314-part-2-CalebPerumal28.git
+
+Open **GitHub Desktop** → File → **Clone repository** → Paste the URL → Choose a local folder → Click **Clone**
+
+2. **Open the Cloned Project in Android Studio**  
+- Launch Android Studio  
+- Click **File → Open**  
+- Navigate to the cloned folder (the one containing `build.gradle`)  
+- Click **OK** to import the project
+
+3. **Wait for Gradle Sync**  
+Follow the same Gradle sync process as in Method 1.  
+Afterward, you can commit and push changes using GitHub Desktop if needed.
 
 #### Building and Running the App on Your Phone
 
@@ -291,7 +322,6 @@ FitNexx follows the MVVM (Model-View-ViewModel) architecture for a clean separat
 - **Braden Caleb Perumal (ST10287165)**
 - **Nikhile Reddy (ST10338305)**
 - **Ishkar Singh (ST10395002)**
-- **Abdul Basit Shahid Deshmukh (ST10316123)**
 
 We are the sole authors of the FitNexx Android Application.
 Please email dbw@varsitycollege.co.za or, alternatively StudentServicesWVL@varsitycollege.co.za for any inquiries or concerns.
@@ -370,7 +400,28 @@ If you encounter issues, ensure your Android Studio project is synced properly w
 
 ---
 
-## 📚 13. References
+## 🎥 13) Demonstration Videos
+
+### 🎙️ With Voice Over  
+*Video demonstration showing the app mirrored from a physical device to Android Studio, allowing for an easy demonstration of data entries in Firebase Auth and Mongo Database.*  
+[📹 **Watch Video**](https://dlssa-my.sharepoint.com/:v:/g/personal/caleb_dlssa_onmicrosoft_com/EbG_Gyl4XthJkjq0h_zmPeMBH57clDYTBgE6eGf2--L2dw?e=R7sqpp)
+
+---
+
+## 🔗 14.Github Application Link
+- 📂 [GitHub Repository](https://github.com/VCWVL/prog7314-part-2-CalebPerumal28.git)
+
+---
+## 📱 15. Fitnexx API Github Link
+- 📂 [API Repo](https://github.com/BradenCalebPerumal/fitnexx-api.git)
+
+---
+
+## 📱 16. App APK
+- 📂 [APK Repo](https://github.com/CalebPerumal28/ThryftAppBuildApk.git)
+
+
+## 📚 17. References
 
 - **BroCode, n.d. Android Development for Beginners.** [online] _[YouTube (@BroCodez)](https://www.youtube.com/@BroCodez)_ [Accessed 2 May 2025].
 - **PhilJay, n.d. MPAndroidChart.** [online] _[MPAndroidChart (GitHub)](https://github.com/PhilJay/MPAndroidChart)_ [Accessed 2 May 2025].
@@ -382,11 +433,3 @@ If you encounter issues, ensure your Android Studio project is synced properly w
 - **Kusnier, J. Liquid Bottom Navigation UI Design in Jetpack Compose.** [online] YouTube Video. Available at: _[https://youtu.be/nP42CBV5Rd0](https://youtu.be/nP42CBV5Rd0)_ [Accessed: 2 May 2025].
 
 
-
-the rest api log not showing, and also tekl me where to put the image assets 
-
-git add README.md
-git commit -m "Added fully formatted README for FitNexx"
-git push origin main
-
-the rest api log not showing, and also tekl me where to put the image assets 
